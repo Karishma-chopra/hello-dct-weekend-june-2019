@@ -1,9 +1,16 @@
 // This is created by priyanka
 
-function s(){
-    console.log("sy")
+
+function add(a, b) {
+    return a+b
 }
 
-function happy(){
-    console.log("Happyg")
+function greeting(name){
+    console.log("welcome",name)
 }
+
+greeting("Sony")
+greeting("Tony")
+greeting("Mony")
+greeting("Kony")
+
